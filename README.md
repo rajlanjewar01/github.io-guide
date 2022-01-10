@@ -68,7 +68,7 @@ Git Base here by right clicking here.
 <img src="images/8.PNG" alt="img">
 
 9) <b>Step 9</b>: Now inside Source dropdown choose <b>"Main"</b> (main in branch name-your main/origin branch) -> next dropdown is automatically selected leave it default
-and now click on "Save"
+and now click on <b>"Save"</b>
 
 <img src="images/9.PNG" alt="img">
 <img src="images/10.PNG" alt="img">
@@ -79,26 +79,3 @@ and now click on "Save"
 ```
 https://rajperficient01.github.io/my-demo-website/ 
 ```
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
