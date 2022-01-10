@@ -27,17 +27,19 @@
   
 <img src="images/3.png" alt="img">  
 4) step 4: Goto github.com you can see repository that we just created copy full .git link by clicking copy icon.  In Git Base terminal 
-	write following commands <b>git clone https://github.com/rajperficient01/my-demo-website.git</b> and hit enter
+	write following commands ```sh <b>git clone https://github.com/rajperficient01/my-demo-website.git</b>  ``` and hit enter
 	Now inside your folder you can see one folder is being created  -> close Git Base now -> open newly created folder(in our case my-demo-website folder) and now open 
 	Git Base here by right clicking here.
   
 <img src="images/4.png" alt="img">
 <img src="images/5.png" alt="img">
 5) Next step is to paste your source code here : copy and paste your code all files -> In git base type following commands
+	```sh
 	git status
 	git add .
 	git commit -m "initial commit"
 	git push
+	 ```
   
 <img src="images/6.png" alt="img">
 6) And now if you visit to you github you can see your files added (refresh the browser)
