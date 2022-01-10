@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="#">
     <img src="images/maxresdefault.jpg" alt="Logo">
   </a>
 
@@ -11,6 +11,73 @@
 </div>
 
 ## Step By step Guides:
+
+
+<img src="images/0.png" alt="img">
+1) Visit to Github.com and Create new repository by clicking "New"
+
+
+<img src="images/1.png" alt="img">
+2) step 2: provide repository name (in our case *my-demo-website),   *important Choose "Public" and click Create repository
+	(reason of choosing public is that in Basic/Free plan Github only allow Github pages repository to be public)
+  
+<img src="images/2.png" alt="img">
+3) step 3: Copy the highlighted link, Create any folder in Desktop -> Open it -> Right click inside folder and open Git Base Here 
+	[if you are not have git base installed visit to following link https://git-scm.com/downloads  download and install it].
+  
+<img src="images/3.png" alt="img">  
+4) step 4: Goto github.com you can see repository that we just created copy full .git link by clicking copy icon.  In Git Base terminal 
+	write following commands <b>git clone https://github.com/rajperficient01/my-demo-website.git</b> and hit enter
+	Now inside your folder you can see one folder is being created  -> close Git Base now -> open newly created folder(in our case my-demo-website folder) and now open 
+	Git Base here by right clicking here.
+  
+<img src="images/4.png" alt="img">
+<img src="images/5.png" alt="img">
+5) Next step is to paste your source code here : copy and paste your code all files -> In git base type following commands
+	git status
+	git add .
+	git commit -m "initial commit"
+	git push
+  
+<img src="images/6.png" alt="img">
+6) And now if you visit to you github you can see your files added (refresh the browser)
+
+7)Open the setting tab
+
+<img src="images/7.png" alt="img">
+8) scrool down -> in left menu clicke on "Pages"
+
+<img src="images/8.png" alt="img">
+9) Now inside Source dropdown choose "Main" (main in branch name-your main/origin branch) -> next dropdown is automatically selected leave it default
+and now click on "Save"
+
+<img src="images/9.png" alt="img">
+<img src="images/10.png" alt="img">
+10) the page is automatically refreshing and after that you will get link to your live website
+--> And now share this link with your friends https://rajperficient01.github.io/my-demo-website/ 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
