@@ -10,7 +10,7 @@
   </p>
 </div>
 
-## Step by step Guides:
+## Step by step guides:
 
 
 <img src="images/0.PNG" alt="img">
